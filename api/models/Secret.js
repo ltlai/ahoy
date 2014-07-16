@@ -14,7 +14,7 @@ module.exports = {
       required: true
     },
     location: {
-      type: 'string',
+      type: 'json',
       required: true
     }
   }
